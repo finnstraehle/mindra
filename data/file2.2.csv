@@ -1,0 +1,282 @@
+﻿NR,Rolle,Firma,Typ,Aussage,Bereiche in die eingespart wurde,konkrete Einsparungen / Zahlen,Skala Kosteneinsparungen 1–5,Allgemeine Aussagen zur Messung,
+2,IT Projektleiter,Detailhandel,Externe Firma," Am Anfang hast du ein Projektvorgehen, wenn wir es
+nicht haben. Dann kommst du auf eine Schätzung. Am Anfang hast du T-Shirts. Das sind
+4 Umsetzungskomplexität. Aber das ist noch nicht mit einem Dollarwert quantifizierbar. Dann
+hast du andere Integrations-Pattern. Du merkst, es ist viel einfacher, weniger Risiko. T-Shirts
+heisst es. Dann merkst du, dass du diesen Weg gehst. Aber da hast du noch keine konkreten
+Werte hintendran. Es ist schwierig zu sagen.
+
+""Ich kann dir jetzt keine Zahl nennen und sagen, hey wir haben x Millionen eingespart,
+weil wir es nie wirklich konkret gemessen haben, weil wir keine Beweisschuld hatten.""",,,,ist schwierig quantifizierbar.,
+2,IT Projektleiter,Detailhandel,Externe Firma,"In vielen Unternehmen ist niemand explizit für Datenqualität verantwortlich. Dadurch entstehen sogenannte Hidden Costs – also versteckte Kosten, die durch fehlerhafte, unvollständige oder unklare Daten entstehen
+
+Wenn man klare Rollen wie „Lead Data Owner“ einführt und diesen Personen die Verantwortung für bestimmte Datendomänen formell zuweist, wird Datenqualität zur echten Aufgabe mit Zuständigkeit. Wird zusätzlich messbar gemacht, wie gut die Qualität ist , kann man gezielt optimieren
+
+""Hier gibt es Auswertungen zu Hidden-Costs of Data-Quality, die in die Bereiche 10-15% vom Umsatz
+gehen. Da gibt es entsprechende Studien dazu. Und hier ist immer so mein Pitch, wenn wir nur schon 1% dieses Potenzial heben, dann sind
+wir bei uns im Retail schon in Millionenumfelden unterweg""",Hidden Costs werden ersichtlich ,"10 - 15 % im Bereich vom Umsatz könnte verbessert werden (Studien zufolge) 
+
+wenn man nur schon 1% verbessert von unnötigen Hidden Costs (bzw. ersichtlich macht und anpackkt), dann kann man im Retail Bereich Millionen sparen ",,,
+2,IT Projektleiter,Detailhandel,Externe Firma,„Adressdaten von der Post wurden sogar dreifach eingekauft. … Sobald man diese Data-Assets anfängt … Da hast du Immediate Cash-Out,Vermeidung von unnötigen Ausgaben für doppelte Daten,,,,
+2,IT Projektleiter,Detailhandel,Externe Firma,"""Durch den Einsatz des Enterprise Data Models kann Denner die Kassensoftware schrittweise pro Filiale aktualisieren, ohne dass nachgelagerte Systeme davon betroffen sind. Die Umsysteme (z. B. Buchhaltung, Reporting) arbeiten weiterhin stabil und müssen nicht auf unterschiedliche Datenformate der alten und neuen Softwareversion angepasst werden. Das erhöht die Betriebssicherheit, reduziert den Integrationsaufwand und verhindert doppelte Entwicklungsarbeit – ein klarer Vorteil in Bezug auf Flexibilität, Skalierbarkeit und Kosten.
+
+Umsatz ist ziemlich relevant bei einem Retailer. Da haben wirviele Abhängigkeiten. Das hätte zu Problemen geführt, dass wir diese Schema-Änderungen in
+x Umsystemen hätten nachziehen müssen. Je nachdem, wie oft oder wie schnell. Dann hätten sie das merchen müssen.Dieses Merchen der zwei Versionen wird über den Event-Tab gewährleistet. Das ist schon ein
+konkreter Mehrwert. Ansonsten hätten wir mit Point-to-Point-Integration sehr viele Komplexe lösen müssen.""","EDM also das ist der reine Case, den ich vorhin erwähnt habe, wo
+es jetzt darum geht, diese Kassensoftware Upgrade und halt Point-to-Point-Integrationen zu verhindern. Also da haben wir Savings im Bereich von Entwicklungsaufwänden, die ansonsten
+anfallen würden.",,,,
+2,IT Projektleiter,Detailhandel,Externe Firma,"Ja, also der nächste Schritt wäre wirklich, wir haben jetzt z.B. so verschiedene Prozessschritte in unserer Supply Chain, dass z.B. die Ware kommt beim Verteilzentrum an, das ist der Wareneingang, wenn der nicht gebucht werden kann, fallen gewisse Kosten an. Weil vielleicht, ich sage mal, der EAN-Code ist falsch, der Preis ist falsch, da gibt es diverse
+Sachen, die falsch sein können. Dann wird die Ware vereinnahmt, die wird quasi im Zentrallager irgendwo eingelagert und da kann es passieren, dass z.B. das Mass falsch ist in den Stammdaten und darum kann es nicht in den vorgesehenen Lagerort eingebucht werden, weil zu klein
+
+Weil jeder Fehler im Prozess kostet, weil irgendwo etwas steht im Prozess.",Geringere Fehlerkosten ,,,,
+2,IT Projektleiter,Detailhandel,Externe Firma,„Wenn irgendwo ein Prozess blockiert ist … wir sehen die Anzahl Tickets … diese Prozessineffizienz hat uns 50 Franken gekostet … Hochrechnung haben wir noch nicht gemacht,Vermeidung unnötige Kosten durch Prozessineffizienzen ,50 Franken pro Fehler,,,
+13,Experte,Starburst,EDM / EDC Anbieter,,keine Bereiche genannt ,keine ,keine ,"""We have astandard method for showing both publicly available as well as anonymized stories of
+customers with the problem that they had, the solution that was proposed and the value thatthey realized both in terms of the business as well as like knowledge improvements""",
+13,Experte,Starburst,EDM / EDC Anbieter,"Und dafür ist ein Data Catalog sehr wichtig, weil er im Prinzip sagt, hier ist das Offizielle, die
+offizielle Version und dann kannst du die Governance so gestalten, dass du sagst, entweder
+darf niemand eine zweite Variante davon schaffen oder jemand darf nur eine private zweiteVariante davon schaffen oder dritte Variante. Oder wenn eine öffentliche Variante geschaffen wird, muss es so klar dokumentiert werden, was ist was. Das ist eine sehr scharfe Anforderung an die Dokumentation, um genau diese Versionsprobleme zu vermeiden, die so unglaublich teuer sind.Das ist so wahnsinnig teue",Kosteneinsparung erreicht durch keine unterschiedlichen Daten ,,,,
+6,Data Manager,Versicherungsfirma,Externe Firma,"Aber im Durchschnitt kannst du wirklich davon sagen, Daten finden, verstehen, beantragen,
+verarbeiten, alles hängt irgendwie dran. Du brauchst diese Informationen an einem Ort und
+alles wird langsamer. Das kannst du jetzt hochrechnen in dem Sinne von Personenkosten mal
+Tage. Ich glaube, da bist du bei relativ hohen Summen.",Personalkosten ,,,,
+6,Data Manager,Versicherungsfirma,Externe Firma,"beim Thema Datenprodukt, sagen wir, die Anforderung von Daten und Freigabe von Daten, teilweise von Wochen zu Stunden.“
+--> Die Freigabe- und Bereitstellungszeit von Daten, z. B. für Dashboards, Analysen oder Datenprodukte, wird massiv verkürzt – von typischerweise mehreren Wochen auf wenige Stunde",Reduktion Zeitaufwand ,,,,
+6,Data Manager,Versicherungsfirma,Externe Firma,"Letztendlich hast du
+so krasse Prozessineffizienzen, was dir wirklich die Kosten deiner Use Cases explodieren lässt.",Kosten durch Prozessineffizienzen ,,,,
+6,Data Manager,Versicherungsfirma,Externe Firma,,,Return on Investment in 2 Jahren rausgeholt,,,
+19,Data Product Owner,Globale Bank,Externe Firma,,,,,"We did not measure direct cost savings in quantitative terms 
+but qualitative improvements have been significant",
+19,Data Product Owner,Globale Bank,Externe Firma,,development time was reduced because reusable data models avoided rework and inconsistency between departments,,,,
+19,Data Product Owner,Globale Bank,Externe Firma,,"Audit and regulatory inspections became more efficient, as data lineage was clearly documented",,,,
+19,Data Product Owner,Globale Bank,Externe Firma,,business units reported fewer inconsistencies in KPIs thanks to the harmonization of data definitions across domains ,,,,
+19,Data Product Owner,Globale Bank,Externe Firma,,,,"EDM 5/5 very high benefit especially for aligning systems 
+and people across a highly regulated environment",,
+14,Berater,Globale Beratungsfirma,Beratung,"Butyeah, quantifying it, maybe in terms of the hours saved, I think that's the best or the most
+prudent approach that they usually end up taking.",,,,"But again, in terms of quantifying the hard savings or the hard value, that's a bit tough in this
+case",
+14,Berater,Globale Beratungsfirma,Beratung,"So it's not even an ROI. It's about, yeah, we aren't able to develop our models because we
+can't get an agreement on definitions, data qualities and the bins. So we need to sort this out.
+So it's because of stalled progress, because of regulatory findings. These are also often
+motivators. Anything else that we bring on top, so for example, we might develop a data
+quality solution in-house to automate a bunch of stuff.",,,,,
+14,Berater,Globale Beratungsfirma,Beratung,"On a scale of one to five-ish. So a bit of caveat first. I'm a strong believer in the saying that a tool is just a tool at the end of the day. It's about what you put into it, and it's about how you use it that determines the value that you get out of it. I could have the fastest Ferrari in the world, but if I don't have a driving license, it's of no use to me. Similarly for a data management tool, for data catalog, forenterprise data.",,,EDC und EDM 4/5 ,,
+15,Data Manager,IT Services,Externe Firma,"If you give your proper tool, you really don't need 10 people to do it. You can still live with the two people. If you, because you run so many manual events and everything.",Personalkosten ,,,,
+15,Data Manager,IT Services,Externe Firma,"You basically create an enterprise data model. You create an
+enterprise data catalog. What are the two? You put a reporting system on top of it. Everything
+is one. Now you can serve all the use cases with a single reporting system.
+You save implementation. You save the licensing costs and everything. So there are so many
+other examples.","Lizenzkosten, Implementationskosten",,,,
+15,Data Manager,IT Services,Externe Firma,"So cost of doing nothing is immense. A lot of time, organizations, unless they are government
+funded, like I gave the example, a lot of private companies will just disappear because they
+don't know what they do with different data which is all scattered and everything, and thecost of doing nothing is immense because figure out, you got all the problems in the world, right? And then eventually you are playing flute, right?When the world was burning away. So it's very, very similar analogy but it's pretty much like that. Say, I don't want to do anything, okay?
+Your business will just eventually over the period of time deteriorate, right? That's the cost.",Hohe Kosten of Doing nothing,,Cost of doing nothing 5 out of 5 ,,
+24,Head of Data EMEA,Globale Bank,Externe Firma,"You can achieve hard savings in a passive way because you create more room and more time to do these things
+that create value by saving time on managing data and accessing data.",Reduktion Aufwand ,,,,
+24,Head of Data EMEA,Globale Bank,Externe Firma,"You can assume, you can work out easily how many hours you save that person,
+multiplied by the number of people you would share that tool with. That's your calculation.
+Plus, if you want to do some marginal addition to that, is what is the data person who's not
+now providing manual files to someone doing, the extra value that is added as well",Personalkosten ,,,,
+16,Data Lead,Private Equity,Externe Firma,"So basically, I think that maybe historically it was kind of a trade-off between how much it's
+going to cost and how much it's going to cost if we don't do anything. But at the moment,
+how much it's going to cost doing it is getting lower and lower. And how much it's going to
+cost not doing it, in my opinion at least, it's getting larger and larger as well.",generelle Aussage,,,,
+20,CEO,Beratungsfirma,Beratung,"Wir haben auch schon mit unseren Partner-Software-Herstellern diskutiert, ob wir einen ROI
+rechnen können für Master Data. Für Metadata ist es genau das gleiche.
+
+Du kannst nicht sagen, weil ich einen Data Catalog habe, kann ich drei Personen einsparen.
+Das ist schwierig. Du kannst höchstens sagen, ich bin wesentlich effizienter in meinem
+Reporting, weil ich weiss, wo meine Daten kommen, weil ich dort effizienter bin, damit ich
+mein Geschäft besser versteuere. Aber wie viel Prozent wegen dem Data Catalog da drin ist,
+also, ja.",,,,Schwer zu sagen ,
+22,Chief Data Officer,Bank,Externe Firma,"And what we are doing now is that we are measuring the cost saving across the organization in terms of
+automatization of reporting process. But we cannot do that part if we don't have a clear
+understanding and clear data catalog and data model understanding.
+It's not a direct impact. After, if you want to speak about data quality, you can have a lot of
+use case that can impact your organization in cost saving or even in earning new money. For
+example, for us, in terms of the condition of the customer, it can be a problem of quality and
+the customer can have a condition different of what was established, so we are losing money.",Kosteneinsparung durch Datenqualität mit EDC,,,,
+5,Data & AI Experte,Beratungsfirma,Beratung,"Das Cloud hat dann den GDPR Vorfall gehabt. Es gibt so einen Pressebericht dazu. Wir konnten
+gewisse Daten nicht löschen.
+Und es konnte uns interessanterweise nachgewiesen werden. Und in dem Zuge haben wir
+dann relativ Druck gehabt, zu verstehen, in welchen Systemen welche Daten sind. Und da hat
+uns der Data Catalog in dem Moment wieder sehr geholfen.",Prozesskosten ,,,,
+7,Data Architect,Versicherungsfirma,Externe Firma," when the market is volatile, what we saw in the last one year or one month maybe,
+because of the tariff situation, the prices were going up and down. So during such volatility,
+the system availability plays an important role to minimize your losses or to optimize your
+hedging strategies. So all of these are interlinked and the data management serves the
+backbone for all of these front end activities.",Kostenverlust: Wenn die Daten nicht verfügbar sind für einen Tag ,"And when it comes to business impact,
+there we can count if the system is down for let's say five minutes or one day, we are talking
+about millions of losses because the data is not available for the portfolio managers to make
+the decisions.",,,
+7,Data Architect,Versicherungsfirma,Externe Firma,"the data was dispersed in multiple systems. So the same data
+supplier was providing data to three different applications and the data points were quite
+overlapping with each other. But there was no central data management platform. So every system was requesting the
+same data points over and over again. So when we realized that it's the same data point that can be requested only one. So let's say I'm not giving the exact details in terms of the cost impact, but I will give you roughly the estimate how we measure the benefits. So one request costs us about five US dollars in a day. So there were three requests going to that particular data supplier multiple
+times in a day.
+So the costs were three times. And when we saw that there is a potential to optimize, we
+brought down everything to one request per system or like one request instead of three
+requests. So two thirds of the costs were optimized already. And that was only possible because of the enterprise data catalog and the data model that
+we created.",Reduktion vom Suchaufwand ,"Zwei Drittel der Kosten in Bezug auf Suchaufwand gekürzt: 
+""So two thirds of the costs were optimized already""",,,
+7,Data Architect,Versicherungsfirma,Externe Firma,"And then those are based on the data license as well, because they measure based on how
+many hits you have on a particular data product. And they do not check whether it's the same
+instrument that is being requested or it's a different instrument, but they just measure. I got
+three requests today for, let's say, Apple stock.
+And by the same company called XYZ. Yeah, so they will count three times the hit and they
+will charge you 15 US dollars. But that could have been done by just five US dollars, for
+example, for one stock. And this is the most granular example. And in the corporate landscape, you have 10,000 of
+securities every day or stocks. So you can imagine the cost going to 50,000 or easily to
+100,000.",,50 - 100'000 Am Tag ,,,
+7,Data Architect,Versicherungsfirma,Externe Firma,"So one of the implementation we had previously done was that it was recursively going
+through all the levels that were available for a company. So if the corporate structure is
+simple, you have only three or four levels. But if there is a complex corporate structure, then
+it will go through up to 10 levels to reach the ultimate owner.
+And it was gathering all those information. And you know, every hit is 5 US dollars, for
+example, in this case. So instead of the current company and the ultimate owner 10 US
+dollars, we were going up to 100 US dollars to complete the data points.
+So that was also eliminated, because when we realized how the data model is structured, and
+when we looked at how we are sending the request out of this master data management
+system, we found out that gap and we had to change our implementation strategy. So that is
+also something which helped us to understand why our costs are going up. And you can
+optimize it. --> Erst durch die strukturierte Sicht auf das Datenmodell wurde sichtbar, wo unnötige Prozesse laufen + Optimierungspotenzial erkannt: Das EDM half zu verstehen, wo Kosten entstehen und wie sie sich vermeiden lassen.",Hidden Cost wurden ersichtlich ,,,,
+7,Data Architect,Versicherungsfirma,Externe Firma,"So there are multiple scenarios where you can optimize cost. So one other use case is when you have the data lineage, because that's also something that you implement in the enterprise data catalog. You can see where the data is going. Because when we work with the third party market data suppliers, they have very strict requirements on how to consume their data products. So for example, if I'm getting data from Swiss National Bank, they say that it is only accessible only in the Switzerland market unit or only in the Switzerland. So I cannot use that data point in Germany, for example.
+So that is visible only if you have a proper data lineage, and in which system it is going and where that system is located. So if you do not have that catalog, you cannot really know that the data point that is coming from Swiss National Bank is also going to the US, for example, or one of our reports. And then you get the fine at the end of the year when the audit
+happens. --> And the fines are generally in the millions because of the loss of the data exclusion or data
+exclusivity. So there are some intangible benefits which I was referring to, such as penalties,
+then the impact analysis that you can do, the cost optimization that you can do. And then, of
+course, you optimize overall your data engineering and data integration, which has reduced
+time to market, basically.",Audit / Penalty Kosten ,Millionen ,,,
+7,Data Architect,Versicherungsfirma,Externe Firma,"So when you know your data model, you precisely know what to change, where to change,
+and you don't need to scout through all your organizational assets.",Hidden Cost wurden ersichtlich ,,,,
+7,Data Architect,Versicherungsfirma,Externe Firma,"Interesting. So if you would rate on a scale from one to five, how would you quantify the
+benefit from EDC or EDM? Both five or is this difficult?
+I would say between four and five, because I'm not going for five because I know there is
+no ideal world and you cannot implement fully because of the organizational complexities. So
+the more you have on the enterprise data model and the enterprise data catalog is the better,
+but the coverage is never 100% because of the various reasons. New systems coming up, the
+old systems going down.",,,4 out of 5 EDM and EDC ,,
+30,Head of Community,IT Services,EDM / EDC Anbieter,"Also dann kannst du eher sagen, guck mal, ich habe darüber Data Science oder Data Analytics
+Use Case enabled, also hier, weiß ich nicht, besseres Marketing in Südafrika und in Südafrika
+haben wir jetzt, nachdem wir das Ding gemacht haben, x Millionen Einheiten mehr verkauft.
+Das sind so und so viele Stutzen, die wir dadurch zusätzlich eingenommen haben. By the way
+enabled durch Data Science und dann indirekt enabled durch den Data Catalog.",indirekte Kostenersparnisse duch bessere Data Science ,,,,
+30,Head of Community,IT Services,EDM / EDC Anbieter,"Das sind aber alles Annahmen. Dieses harte Prozesskostendenken ist nicht da. Also Data
+Management als solches ist immer eine Enabling Function und als Enabling Function hast du
+nur indirekte und keine direkten Benefits.",,,,Schwer zu sagen ,
+30,Head of Community,IT Services,EDM / EDC Anbieter," Es gibt was, da glaube ich wirklich dran, dass es sinnvoll ist das
+zu machen, aber eben indirekt. Trotzdem 4.",,,EDM und EDC 4/5,,
+26,Data Executive,Finanzdienstleistungen,Externe Firma,"that are we allowed to do it legally, like you must have heard of
+Google and Facebook and all that. They get sued like 10 billion dollars or 100 billion dollars
+because they used a consumer data without having the right use case. So that is a part of
+the governance metadata.",Prozesskosten ,,,,
+26,Data Executive,Finanzdienstleistungen,Externe Firma,"So the CIO said, I do not want to hear cost saving because if you are going to undertake a
+project and just tell me, oh, we are going to save money, I can find a thousand ways to save
+money and cost saving. I want to really see more value than that, which is like generating
+revenue and all that because cost saving will come in some way or the other. If you think
+from a cost saving when you are taking on a new initiative, you are not really aiming for the
+sky.",,,,Sollte nicht direkt nach den Hard Savings geschaut werden,
+26,Data Executive,Finanzdienstleistungen,Externe Firma,"So when we move to Collibra,of course, we will be saving cost in terms of efficiency and time and other things, but it is
+more broader than that and I will give you a few examples. So one is, you must have heard
+the term data democratization, right? --> Example Geofencing ",Kosteneinsparungen durch Effizienz und Zeit,,,,
+26,Data Executive,Finanzdienstleistungen,Externe Firma,"So what that means is when you're trying to ideate, you're trying to build a new product. And so your cost savings may be something still, I'm not saying that it is not important, it's there. Say for example, you save like £100 in cost savings. But if you are generating £10,000, building a new product, the cost savings should not be your motivation. Your motivation should be, can I build a product that's going to generate £10,000? Your cost saving will still be there.
+
+I'm not saying we should not worry about cost saving. But why stop at just cost saving? Because when you look at that, a lot of times people, once they are able to articulate how much they're saving, they relax and they don't want to really do anything more than that.","Kosteneinsparunge nicht primärer Fokuss, sondern Fokuss auf 
+Business Impact",,,,
+26,Data Executive,Finanzdienstleistungen,Externe Firma,"It's going to be, it is going to cost you so much that it will threaten the existence of the
+company. And I'll tell you what, maybe the company may survive for some time because it
+had some residual growth and some residual momentum",,,Cost of Doing Nothing 5/5 ,,
+9,Chief Data Officer,Wirtschaftsprüfung,Beratung,"Wenn wir EDM anschauen, da ist besonders das, was ich vorher angesprochen habe, da gibt es Skaleneffekte, ich kann mit wenigen Vendors zusammenarbeiten, habe einen gewissen Skaleneffekt, weil ich einfach Dänger dann habe, das geht vor allem auch bei der Cloud- Usage einfach darum, wenn ich mehr Cloud-Usage habe bei einem spezifischen Anwender, dann wird es in der Regel günstiger, einheitliche Architektur ermöglicht Zentralisierung von Support Teams, Zentralisierung von Development Teams, ich brauche nicht noch irgendeinen, der noch irgendeine fünfte oder hundertste Programmiersprache kann, sondern ich kann das so ein bisschen um die Wichtigsten zentralisieren.
+
+dann habe ich natürlich dort einen gewissen Effekt, wenn ich
+dann auch mit verschiedenen Cloud-Services arbeite, kann ich auch dort durch
+Zentralisierung mal ein bisschen Geld sparen",Kostensenkung durch Konsolidierte Cloud Nutzung,,,,
+9,Chief Data Officer,Wirtschaftsprüfung,Beratung,"Jedes Tool braucht 20 Personen für den Support, dann ist es gut möglich, dass
+ich in Zukunft vielleicht nur noch 5 oder 10 Tools habe und von diesen brauche ich dann die
+Hälfte der Leute und dann habe ich schon mal 50% Cost Reduction einfach nur im Bereich
+von den Leuten, dann kommen die Skaleneffekten bei den Software-Lizenzen, 20 Tools, 20
+Lizenzen, kostet auch Geld, dann habe ich natürlich dort einen gewissen Effekt, wenn ich
+dann auch mit verschiedenen Cloud-Services arbeite, kann ich auch dort durch
+Zentralisierung mal ein bisschen Geld sparen",Kostensenkung durch weniger Tool Wildwuchs (weniger Lizenzkosten) ,Schätzungsweise 50% der Kosten (gut möglich) ,,,
+9,Chief Data Officer,Wirtschaftsprüfung,Beratung,"Dann geht es eben darum, wie viele Kosten kann ich da sparen, wobei das ist Augenwischerei, dass wir das überhaupt quantifizieren können, also ich glaube, das ist ja auch immer so ein Thema, wie quantifiziere ich das, das ist so abhängig von wie viele Daten ich habe, wie viele Tools ich habe, welche sind zentral, welche nicht, also ich kann jetzt nicht sagen, ja gut, mach EDM verspasst eine Million, das wäre gelogen, aber man kann schon viel sparen mit sowas.
+
+Das muss man durchrechnen und da kann ich jetzt nicht sagen, ich bin jetzt hier der Guru und zahle 200.000 oder 100.000 in einem Jahr, das sind so die Aussagen und ich weiss, für jeden Manager und für jeden C- Level-Exekutiv ist die Aussage nicht attraktiv, vor allem nicht, wenn man auf Short-Term- Benefits aussieht, dann ist das das falsche Thema.",,,,keine konkrete Sparmassnahmen,
+9,Chief Data Officer,Wirtschaftsprüfung,Beratung,,,,,langfristige Kostenersparniss keine kurzfristige,
+9,Chief Data Officer,Wirtschaftsprüfung,Beratung,"Genau, also wir haben ja jetzt eigentlich nur die Kosten besprochen, Opportunitäten sind eben, ich kann dann anfangen mit Data-Driven-Services, je nachdem was ich für Daten
+habe, gerade Unternehmen wie meins, wir sitzen auf unheimlich vielen Daten, die für sehr viele verschiedene Use-Cases genutzt werden könnten, insofern erlaubt, insofern möglich und genau da sind dann halt auch Effekte im Spiel, die ich gar nicht gut berechnen kann, also wer kauft denn das am Schluss, vielleicht viele, vielleicht niemand, das ist noch nicht so ganz klar und das ist dann nochmal ein ganz anderes Thema, also da kann man auch noch viel Zusatzeinkommen generieren, wenn man auf vielen Daten sitzt.",Zusatzeinkommen durch besseren Überblick der Daten + Data Driven Services,,,,
+9,Chief Data Officer,Wirtschaftsprüfung,Beratung,"Wenn mein Unternehmen datengetrieben ist und viel mit Daten arbeitet, ist der Nutzen
+eher auf 4 bis 5 einzuordnen, weil dann habe ich wirklich alles unter Kontrolle, wenn ich das
+sauber mache, sobald ich nicht datengetrieben bin, ist der Nutzen fast bei 0, also es ist
+wirklich das eine Extrem oder das andere Extrem, das ist so ein bisschen das Nutzenthema,
+aber eben es ist unheimlich schwierig zu sagen, weil es kann dann auch sein,",,,Nutzen EDC EDM 4/5 für Datengetriebene Unternehmen,,
+9,Chief Data Officer,Wirtschaftsprüfung,Beratung,"""Wenn mein Unternehmen datengetrieben ist und viel mit Daten arbeitet, ist der Nutzen
+eher auf 4 bis 5 einzuordnen, weil dann habe ich wirklich alles unter Kontrolle, wenn ich das
+sauber mache, sobald ich nicht datengetrieben bin, ist der Nutzen fast bei 0, also es ist
+wirklich das eine Extrem oder das andere Extrem, das ist so ein bisschen das Nutzenthema,
+aber eben es ist unheimlich schwierig zu sagen, weil es kann dann auch sein,""",,,Nutzen EDC EDM 1/5 für nicht Datengetriebene Unternehmen,,
+27,Data Steward,Bank,Externe Firma,"But think of, for instance, if you know that the column ABC means this and everybody knows
+that the column ABC means this, you're not going to have any minute of discussion on what
+it means.
+
+ So if you had a meeting of five people, half an hour to discuss that, you saved 30 minutes
+of salary of all those five people, for instance, starting from there. But probably, yeah, there
+are other, yeah, savings. ",Reduktion Zeitverschwendung + Einsparungen Personal,,,,
+27,Data Steward,Bank,Externe Firma,"That is a huge gain, of course, because if you know which datasets that you have in the
+company, you search for them in the data catalog, and then you ask for access.I nstead of buying again, ",Doppelung von Daten ,,,,
+10,Data Executive,Versicherungsfirma,Collibra Success Story,"So we didn't really have any hard measures as to what the cost savings are, but definitely
+compliance is one of them. And the ability to respond to audits very, very quickly definitely
+saves us time. But I don't think we measured the cost savings in numbers or dollars anyway",Kostenreduktion in Compliance,,,keine konkrete Sparmassnahmen,
+1,Chief Data Officer,Globaler Brauereikonzern,Collibra Success Story,"And you see how much time data scientists are wasting, how much time is wasted on deciding. So then you create a complete mess that almost like paralyzes your operations. And it's almost like the cost of not doing that is very high. 
+
+Your time of the data scientists don't find anything.",Zeitersparnisse ,,,,
+1,Chief Data Officer,Globaler Brauereikonzern,Collibra Success Story,"No one knew what it was. So what happened is that everyone was just trying. It was almost
+like a discovery, just literally like you are in these dumps that you see in the slums of some
+of the cities and everyone just find it.
+Then everyone would duplicate the same data sets in 10,000 places. And then your cloud
+costs will skyrocket because you have the same data set in 50 places. So again, there is a
+colleague of mine who's got this muscle.",Cost of Doing Nothing: hohe Cloud Kosten ,from 10 times to 100 times more ,,,
+1,Chief Data Officer,Globaler Brauereikonzern,Collibra Success Story,"But the other thing, you will get fines. And those fines can be quite hefty, particularly if you're putting consumer data with no restriction and no order, etc. Because you have the right to be forgotten, you have the right for deletion, you have certain policy, you need to delete things every six months, etc., etc. So you see kind of the potential costs are growing very quickly. In certain jurisdictions now, they're taking a very strong stance that's outside Europe, not in
+Europe. Europe has got fines, which is fine. You can just say, well, I just pay the fines.",Prozeskosten,,,,
+1,Chief Data Officer,Globaler Brauereikonzern,Collibra Success Story,"So you see, you can see the, and let's assume that in reality, actually, your promotional data
+was, you know, a promotion would be the right strategy, because you would get so much
+more out of your capital spend. So you see how very quickly the millions start to pile up in
+terms of mistakes for having incorrect data sets.",hohe Kosten wegen falschen Daten ,,,,
+1,Chief Data Officer,Globaler Brauereikonzern,Collibra Success Story,"Then you can calculate very easily what is the annual cost of that cloud credit, and you say,
+okay, well, if I have ordered these costs, I'm not dealing with, but this is very specific for any
+organization. So to an extent, it depends on the existing mess. If the existing mess is a lot,
+then you can say, oh, yeah, I'm saving like millions, but I cannot tell you a number that is
+true in every situation, right?",,"Einsparungen im Millionen Bereich, wenn man eine grosse Firma ist, 
+mit einem grossen Mess in den Daten",,,
+1,Chief Data Officer,Globaler Brauereikonzern,Collibra Success Story,"No, let's assume that you have only 5% of reports, reports being KPIs, dashboards, stuff that is unused. And maybe your total number of reports is very small. Then the business case for Collibra is very low, because maybe that total cloud value of that 5% is, I don't know what, maybe 10,000 pounds per year. In our case, we were sitting on 36,000 reports enacted. There were millions in cloud savings just by having better governance, because we had stuff that no one knew that was even existing, were thrown into cloud. We didn't know what it was. Then you could see immediately a reduced consumption in cloud credits, and then it was immediate, and it was great.",Kosten Reduktion wegen doppelten Daten / Cloud Kosten ,"5% weniger Duplikation --> von 36'000 Reports --> 
+Millionen in cloud savings ",,,
+1,Chief Data Officer,Globaler Brauereikonzern,Collibra Success Story," Again, so the large company, large mess, five.
+Small company, small mess, one.",,,ROI EDM EDC 5/5 für Firmen mit grossem Mess,,
+1,Chief Data Officer,Globaler Brauereikonzern,Collibra Success Story,"Large company, well, really difficult. So the only way that you can survive is that you can,
+you continue to put more bodies at it. Yeah, so you would have these centers in local
+locations, and you move from 100, 1000, then you have all these people doing excels and
+stuff like that",Personalkosten (falls EDM EDC nicht implementiert) ,,,,
+31,Professor,IT Management,Univesität,"Wenn ich aber jetzt ein gewachsenes Unternehmen bin, beispielsweise hatten wir miteinem großen OEM zusammengearbeitet, also Car Manufacturing, die hatten 600 Systeme.
+Und da unterschiedliche Daten in unterschiedlicher Qualität, in unterschiedlichenStrukturen abgelegt.Und dann hast du natürlich massive Einsparpotenziale, erstmal diese Transparenz zuschaffen, die Daten einheitlich so verfügbar zu machen, dass du sie analysieren kannst unddamit dann einen Mehrwert generieren kannst.",Einsparungspotenziale durch Datenverfügbarkeit und Möglichkeit zur Analyse ,,,,
+31,Professor,IT Management,Univesität,"weil umso besser die Datengrundlage ist und vorliegt, umso besser kannst du auch Forecastings machen, Belegungspläne machen. Ressourcen effektiv ausnutzen, sodass Wartezeiten verringert werden, hat riesige Implikationen. Wirtschaftliche Unternehmen, je nach Use Case natürlich auch.  Ich glaube allein, dass ich die Accuracy in meinem Reporting besser hinbekomme. Oder wenn ich Daten am Ende irgendwie End-zu-Ende verfügbar habe, dann kann ich ja nicht nur statisch einfach nur reporten, also Vergangenheitsanalysen, sondern ich kann auch Simulationen machen und dann auch besser forecasten, wie ich meine Produktionslandschaft beispielsweise aufstellen soll oder you name it. Dadurch, dass es sich um Daten handelt, ist glaube ich auch die Vielfalt der Use Cases, die du damit machen kannst, indem du halt die Qualität und die Strukturen und die Ownerships und vielleicht auch Data Products dann besser zur Verfügung stellst.",Business Case  durch bessere Forecastings ,,,,
+31,Professor,IT Management,Univesität,"ine 4, aber ich meine, am Ende ist das, weißt du, das ist Baseline,
+Architekturgeschäft. Wenn du das nicht hast, kannst du, das ist also eine Necessary
+Condition. Ohne das geht ganz, ganz viele andere Sachen nicht.Das ist eine Pre-Condition. Für mich muss das jedes Unternehmen machen, das irgendeinen
+Mehrwert aus Daten ziehen möchte.",,,ROI EDM/EDC 4/5,,
+3,Experte,Collibra,EDM / EDC Anbieter,"I'll give you another example, a very simple example that I was working with a bank and they had about, I think,
+10,000 or 11,000, like a lot of code sets. Now they were getting this from Experian, they were getting it from different credit organizations and other things, right? But what they found after they brought that into Collibra was that some of those were almost the same, but they were paid separately. They were paying separately to Experian or whatever it is, right? And some of them are very similar with very small differences, right? So what they did was that they managed to bring down the number of code values and code sets from 11,000 to, I think, to about 7,000 or 8,000. So that's a huge, that's a huge saving because they're not paying anymore for whatever that was. So those things are practical things that can happen that would immediately show value, right? Because you can say, now we've reduced the number of code sets and previously we
+were paying $10 million, now we're only paying $4 or $5 or whatever it is, right?",Kosteneinsparungen durch Reduktion von Doppelungen,"11'000 code sets (Data) reduced to 7000 --> mussten nur noch 
+für 7000 Sets bezahlen, weil 4'000 ähnlich waren. --> vorher 10 Millionen für Code Sets bezahlt und nachher 4-5 Milllionen",,,
+3,Experte,Collibra,EDM / EDC Anbieter,"And the consequence is not immediately obvious. Right. Things start to fail after, it will take
+time to fail, but when they do, it will be catastrophic.Right. But until that happens, it's not going to, you know, so one of the things, not doing it is that depending on, obviously dependent on the sector, fines, large fines could happen. Right. We have a customer who came to us just because they got fined and they had to implement a data program. They got fined and some people died.
+
+The other one could be simply that you cannot compete with companies
+that are now coming up with faster, quicker turnaround times. Because if you don't know
+where your data is, if you don't understand what it means, and if you can't trust it, you can't
+do quick things compared to other companies who are in that program, understand what
+something means.","Kosten entstehen, wenn man nicht mitgeht ",,,,
+11,Experte,Collibra,EDM / EDC Anbieter,"Beispielsweise typische Produktivitätssteigerungen im Data Governance Bereich, wenn ich
+die Zahlen nicht richtig im Kopf habe, liegen so bei 13 bis 15 Prozent. Jetzt überlegen wir mal,
+da sind 500 Leute damit beschäftigt. Die sparen 15 Prozent ihres Aufwandes für
+Datenmanagement ein.
+Da reden wir über Millionen Savings. So, also das ist das Erste. Automatisierung,
+Produktivitätssteigerung.",Kosten durch Produktivitätssteigerungen in Data Governance,"13 - 15% Reduktion Aufwand --> bei ca. 500 Personen, Einsparungen
+von Millionen",,,

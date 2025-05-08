@@ -1,0 +1,370 @@
+﻿NR,Rolle,Firma,Typ,Aussage,Cluster,Dauer min.,Dauer max.,Beschreibung,,,,,,,,,,,,,,,
+1,Chief Data Officer,Globaler Brauereikonzern,Collibra Success Story,"In our case, it probably was one of the most complex. It took us two years and a half.",Volle / Restliche Implementierung ,30,,Kompletter Set up: 2.5 Jahre ,,,,,,,,,,,,,,,
+1,Chief Data Officer,Globaler Brauereikonzern,Collibra Success Story,"But then if you're not so complex, you can probably do it in, I don't know, six months in terms of implementation.",Volle / Restliche Implementierung ,6,,6 Monate wenn nicht zu komplex,,,,,,,,,,,,,,,
+1,Chief Data Officer,Globaler Brauereikonzern,Collibra Success Story,"I would say probably over a year just in terms of the content of Collibra. Once we got to
+them, just putting in the system and then rolling it out was fine. The workflows were a bit
+clunky.",Volle / Restliche Implementierung ,12,,nur collibra Set up: 1 Jahr,,,,,,,,,,,,,,,
+1,Chief Data Officer,Globaler Brauereikonzern,Collibra Success Story,"So in the workflows, we had business owners that, for instance, would create a new term or
+give a new definition or create a change in the EDM. So those workflows were a bit clunky, it
+took us a bit to get around it. And then it was the country's implementation, again, we kind
+of did it in one year, one year and a half, with each of the countries.
+",Volle / Restliche Implementierung ,12,,"Set up in den restl. Ländern: 1-1.5 Jahre
+Ursprüngliches Set up steht aber schon",,,,,,,,,,,,,,,
+10,Data Executive,Versicherungsfirma,Collibra Success Story,"How long did that implementation take you in your specific case?
+(29:33 - 29:35)
+AH: Yeah, I would say a year.",Volle / Restliche Implementierung ,12,,Implementierung: 1 Jahr ,,,,,,,,,,,,,,,
+10,Data Executive,Versicherungsfirma,Collibra Success Story,"It was over a year to really get it to, I mean, we got it up and running in no time. But to
+really see the benefits and usage, it took about a year.",Quick Wins ,12,,Quick wins sehen und lernen zu Nutzen: 1 Jahre ,,,,,,,,,,,,,,,
+10,Data Executive,Versicherungsfirma,Collibra Success Story, I think it depends on the complexity of the organization.,,,,,,,,,,,,,,,,,,,
+11,Experte,Collibra,EDM / EDC Anbieter,"Also, wenn ich das Tool in einem
+kleinen Bereich einführe, sage ich mal für 200-300 Leute, natürlich dann kann ich hier
+innerhalb von drei Monaten Mehrwert stiften. Wenn ich aber sage, mein Ziel ist erreicht,
+wenn ich das ganze  Unternehmen beglückt habe, dann dauert es irgendwie fünf Jahre, zehn
+Jahre, whatever.",Quick Wins ,3,120,"erster Mehrwert in kleinen Bereichen: innerhalb 3 Monate 
+Wenn ganzes Unternehmen: 5-10 Jahre ",,,,,,,,,,,,,,,
+11,Experte,Collibra,EDM / EDC Anbieter,"Wir gehen davon aus eigentlich, wenn ein Kunde
+ein Budget hat, bei ihnen die Leute bereitstehen, alle mitmachen, auch die Technik geklärt ist,
+manchmal dauert es drei Monate, wie sie den Server organisieren. Aber ich meine, wenn wir
+das jetzt mal alles außen vor lassen, dann hat man schon eine Chance, dass man zwischen
+sechs und zwölf Wochen dann auch erste Benefits sieht.",Vorarbeit ,3,,"Wenn Budget, Leute, Technik, Bereitschaft 
+MA, Server klären: 3 Monate 
+Erste quick wins: 6-12 Wochen",,,,,,,,,,,,,,,
+11,Experte,Collibra,EDM / EDC Anbieter,,Quick Wins ,2,,,,,,,,,,,,,,,,,
+11,Experte,Collibra,EDM / EDC Anbieter,"Aber da muss der Kunde natürlich reich sein. Wenn er erstmal sagt, was mache ich denn,
+dann dauert es ein halbes Jahr, oder ein Jahr. Ich habe Kunden gesehen, die haben nach zwei
+Jahren immer noch nicht gewusst, wie sie da rangehen, weil sie einfach irgendwie von
+McKinsey reingeflüstert bekommen haben, ihr braucht das und dann haben sie das halt und
+dann überlegen sie, was machen wir jetzt damit? Die Bandbreite ist riesig.",Vorarbeit ,6,24,"Planung: zT nur 6 Monate, zum Teil auch nach 
+ 2 Jahren noch nicht klar
+",,,,,,,,,,,,,,,
+3,Experte,Collibra,EDM / EDC Anbieter,"Now with this data running, this use case now we're running for six months and you can see
+that there's a marked difference in customer churn. And that all links down to this use case
+being empowered, this data being available, this data product being available, this data being
+available, data quality being improved, the ownership being improved, all of that stuff.",Volle / Restliche Implementierung ,6,,wenn Daten bereits in Betrieb: 6 Monate,,,,,,,,,,,,,,,
+3,Experte,Collibra,EDM / EDC Anbieter,"It will depend on the company. We have companies that haven't gone to production in a
+year, and there are companies that have gone to production in two weeks. Okay, it will
+depend on the will of the leadership.",Volle / Restliche Implementierung ,0.5,12,"Es kommt auf Führungskraft an. 
+Gut: 2 Wochen 
+schlecht: kann über 1 Jahr dauern",,,,,,,,,,,,,,,
+3,Experte,Collibra,EDM / EDC Anbieter,"So that's what I would say, on average, maybe it will take about
+three to four months for people to, first of all, test the platform out, do everything that you
+need to do, set it up, all that. And then load the thing, start getting people. It will take about three months, I think, for it to
+be fully in production. People start using and you can show value at least three to four
+months.",Volle / Restliche Implementierung ,4,,"Set up: 3-4 Monate 
+Erster Mehrwert in: 3-4 Monate ",,,,,,,,,,,,,,,
+12,Chief Operations Officer,Handelsunternehmen,Externe Firma,"Ja, das hängt vom Approach ab und es gibt den gesamtheitlichen Approach, wo man
+zuerst sagt, ja wir müssen es komplett verstehen und wir müssen Strategie haben und dann
+möchten wir die Talente rekrutieren, die das können und dann gehen die Schritt um Schritt
+und am Schluss alles stimmt. Und bei diesem Ansatz verliert man natürlich gut und gerne
+vermutlich zwei, drei Jahre oder verliert oder investiert man zwei, drei Jahre.",Volle / Restliche Implementierung ,30,,"Mit tiefem Verständnis, Strategie, 
+talentierte MA rekrutieren, step by step: 
+2-3 Jahre",,,,,,,,,,,,,,,
+2,IT Projektleiter,Detailhandel,Externe Firma,"Dann jetzt beim EDM oder EDC,
+man hat sehr viele Interviews, sehr viel Recherche, also da gehen wirklich Stunden, Tage
+Monate drauf.",Vorarbeit ,,,"Vorbereitung (Recherche, Interviews): 
+Stunden-Wochen",,,,,,,,,,,,,,,
+2,IT Projektleiter,Detailhandel,Externe Firma,"Also ich glaube es gibt ja so diese ROI-Betrachtung oder Payback. Und ich meine bei uns
+irgendwie alles was so über 18 Monate ist und so das wird normalerweise depriorisiert, weil
+wir andere Opportunities haben, die sich schon irgendwo innerhalb von 18 Monaten rechnen,
+oder? Jetzt dieses Thema hier ist eigentlich drüber. Also ich glaube, das kriegst du wirklich
+sauber berechnet. Ich glaube, da spielst du von einem Payback, ich schätze mal drei Jahre,
+aber es ist wirklich, es ist ein Strategic Bet, Weil was jetzt auch viele merken jetzt kommt da
+diese ganze KI-Welle und so oder?",Quick Wins ,24,,"erste Paybacks: 2-3 Jahre, eher zu viel für 
+Denner (>18 Monate)  
+
+-> er würde immediate Payback nicht in  Vordergrund stellen (siehe Qualitativer Aufwand)",,,,,,,,,,,,,,,
+2,IT Projektleiter,Detailhandel,Externe Firma,"Beim EDM, glaube ich, wird der Value erst über Zeit spürbar, wenn
+man dann Änderungen in der Systemarchitektur hat oder wenn man dann quasi ein System
+austauscht und man nicht mehr die zehn Umsysteme wegen Spaghetti- oder Point-to-Point-
+Integrationen anfassen muss, sondern sich einfach nur um diese eine Schnittstelle, sei es ein
+Consumer oder Producer, kümmern muss. Und diesen Wert, den wirst du erst über
+Application Lifecycle Zeit von drei bis fünf Jahren spüren, der ist jetzt heute unmittelbar noch
+nicht so spürbar.",Quick Wins ,36,60,"Erster Wert im Implementierungszyklus
+von 3-5 Jahren spühren, heute noch nicht spührbar
+",,,,,,,,,,,,,,,
+2,IT Projektleiter,Detailhandel,Externe Firma,"Ja, also jetzt beim MGB, ich glaube das war irgendwo 6 bis 12 Monate bis sie entdeckt
+haben, aber dann hast du noch Kündigungsfristen und so. Ich weiss dann nicht wie lange diese
+Laufzeiten der Verträge waren, aber dann bist du dann schnell mal 12 bis 24 Monate in den
+Fenster drin, oder?",Volle / Restliche Implementierung ,6,24," 6-12 Monate bis sie den doppelten Dateneinkauf entdeckt haben 
+dann schnell mal bei 1-2 Jahre",,,,,,,,,,,,,,,
+2,IT Projektleiter,Detailhandel,Externe Firma," Also Initialisierung vom Enterprise-Data-Model via Architektur und dann Change
+Management bei diesen Application- Verantwortlichen, sei das SAP, Lagerverwaltung. Was es
+da alles gibt oder Kassensystem, da ist ja immer eine Führungsstruktur jeweils da drüber. Das
+ist die Seite. Und beim Enterprise-Data Katalog oder Verantwortlichkeiten rund um Data
+Assets initiiert durch die GL möglich und dann im Lead GL-1. Also wirklich nah dran an der Geschäftsleitung,
+ nicht unbedingt direkt in der Geschäftsleitung, aber nah dran an der
+Geschäftsleitung, weil da auch ein paar operative Themen dabei sind, die sozusagen einen
+Ereignishorizont haben von 3-6 Monaten und nicht unbedingt 12-24 Monaten.",,,,"Eher auf der Ebene der GL, da operative
+ Themen von Zeithorizont von 3-6 Monten dabei sind und nicht 1-2 Jahre 
+
+Themen haben einen kürzeren Ereignishorizont als die gesamte Implementierung - man plant nicht so lange voraus",,,,,,,,,,,,,,,
+13,Experte,Starburst,EDM / EDC Anbieter," I spent a considerable
+amount of time in getting companies to first value, and like ultimately with governance is
+really around identifying and establishing their critical data assets.One of it is actual like technical implementation, which could be like 60 days or
+it could be quick.",Volle / Restliche Implementierung ,2,,technische Implementierung: ± 60 Tage ,,,,,,,,,,,,,,,
+13,Experte,Starburst,EDM / EDC Anbieter,"It really depends on the internal processes of how do you sign off on this stuff. That could be
+once a year, it could be every month. So that's a different piece, but I think three to six month
+window is usually something from a governance team.",Volle / Restliche Implementierung ,3,6,"Es reicht nicht, dass etwas technisch möglich
+ oder fachlich sinnvoll ist – entscheidend ist,
+ wie im Unternehmen intern entschieden und freigegeben wird
+- 3-6 Monate 
+critical Data identifizieren!",,,,,,,,,,,,,,,
+13,Experte,Starburst,EDM / EDC Anbieter,"And the analytics side from a Starburst side, I mean, that could be as quickly as today
+because we have a SaaS solution. You can go and download it and connect to wherever you
+want to and start to create. And for large organizations or big enterprises, that's usually like
+a six week project because it gets installed in the customer's environment.",Volle / Restliche Implementierung ,1.5,,"analytische Seite: für grosse Organisationen 
+ein ca. 6 wöchiges Projekt",,,,,,,,,,,,,,,
+14,Berater,Globale Beratungsfirma,Beratung,"Maybe a month or two long project. And for that, we'll develop it end-to-end and show you
+the value. And that is how we approach it.",,,,,,,,,,,,,,,,,,,
+14,Berater,Globale Beratungsfirma,Beratung,"Finn: And you just said that sometimes it's as short as one to two
+months worth of a project. So that's almost the shortest duration I've heard. So it's
+interesting.
+Utsav: at the end of the day, what I gave you is just essentially, so how a credit
+risk model works is that you have your probability of default, your exposure to default, and
+your loss given default. You multiply the three to get the amount that you probably stand to
+lose if a client goes bankrupt. So for each of these components, there's a lot of underlying
+data points that you need to calculate to be able to calculate these components.",,,,"sagt ca. 1-2 monate aber bezieht sich nur darauf wie ein risk model funktioniert - man muss dazu ganz verschiedene Komponenten berechnen; all in all, er kann es nicht gemau sagen.",,,,,,,,,,,,,,,
+14,Berater,Globale Beratungsfirma,Beratung,"So I just took like five of them. So that's really like, think of each of them as, so the five we
+take just has a formula to them. And it's a matter of figuring out what the formula is, figuring
+out the data for where that comes from.
+So that doesn't take a lot of time. Because overall, why it takes a lot of longer time is that
+there's thousands of these underlying data points for every component. So five isn't a lot, but
+it will still take a month or two.",,,,,,,,,,,,,,,,,,,
+14,Berater,Globale Beratungsfirma,Beratung,"Now that you might think if it's not a lot, even a month or two seems longer, because you
+have to go and you have to do a bunch of interviews, see where the data is at, prepare, get
+time from everyone, prepare report outs, do your investigation, set up the actual
+implementation. Because regardless of whether you have to do it for five or 500, you still have
+to set up the entire thing. But the time saved is in the investigation of each data point.",Vorarbeit ,2,,"Aufwand: man muss sich auf die tatsächliche Implementation vorbereiten 
+1-2 Monate (Interviews, Untersuchungen, Zeit der MA beanspruchen)
+mit guter Vorbereitung spart man Zeit in Implementierung Beste Practice?",,,,,,,,,,,,,,,
+14,Berater,Globale Beratungsfirma,Beratung,"Discounting that. I would say the first couple of weeks, getting to know the people, setting
+up stakeholder interviews, identifying who we need to talk to. The remaining three weeks,
+actually conducting the interviews, seeing what's where, while in parallel drafting the target
+architecture.",Vorarbeit ,1,,"Vorbereitungen (Interviews mit Stakeholder organisieren und durchführen, herausfinden mit wem man sprechen muss, mind 3 Wochen um Interviews zu führen, Zielarchitektur skizzieren: mehrere Wochen",,,,,,,,,,,,,,,
+14,Berater,Globale Beratungsfirma,Beratung,"And look over the final report out. And then spending the remaining two weeks implementing
+our findings in the architecture. And the final week would be for report preparation and the
+report out and presentation of what we achieved.",Volle / Restliche Implementierung ,0.5,,2 Wochen noch den Rest implementieren ,,,,,,,,,,,,,,,
+14,Berater,Globale Beratungsfirma,Beratung,"it's basically the five weeks in between is when we
+do the planning and implementation. And then the last week is just wrap up and presentation.",,1.5,,5 Wochen zwischen Planung und Implementierung und 1 Woche bis Schlusspräsentation,,,,,,,,,,,,,,,
+14,Berater,Globale Beratungsfirma,Beratung,"The answer that I gave previously for the one to two months is facilitated or made
+possible by the fact that we as a company have developed our own sort of best practice target
+architectures as well. Which is why we have something to fall back on, so we're not starting
+from scratch.",Volle / Restliche Implementierung ,2,,also Insgesamt: 1 bis 2 Monate ,,,,,,,,,,,,,,,
+15,Data Manager,IT Services,Externe Firma,"It took me six months to design the Enterprise data model, because I had to talk to
+hundreds of people across the business, because only one person knew the puzzle of this
+particular piece, and he said, I live in this world. ",Vorarbeit ,6,,Aufand: 6 Monate nur fürs Design von EDM ,,,,,,,,,,,,,,,
+15,Data Manager,IT Services,Externe Firma,"In other places, probably
+six months is a hell of a lot of time. You can implement ERP for that time, and it took me that
+much to design, because I had to talk to hundreds of people to get the data. I took notes from each and every one, then actually designed it. I had to go through so many
+iterations of reviews, changes. Anytime you talk to one person, you get a piece of the puzzle",,,,mit hunderten von Leuten gesprochen um an Daten zu kommen - 6 Monate verhältnismässig wenig,,,,,,,,,,,,,,,
+15,Data Manager,IT Services,Externe Firma,"It's a very, very complicated process of trying a business case, benefit summary. In fact, all
+this, I call it mumbo-jumbo, whatever you want to call it, itself will take some time longer than
+the project duration. Sometimes you're fighting for up to two years because you have a
+conviction that 100% problem in my particular business unit will be solved if you implement
+this.",,,,,,,,,,,,,,,,,,,
+15,Data Manager,IT Services,Externe Firma,"No, just the model itself.",Volle / Restliche Implementierung ,6,,implementation nur Model dauerte 6 monate,,,,,,,,,,,,,,,
+15,Data Manager,IT Services,Externe Firma,"If you implement it, we took the bid, we ran the tender process
+for roughly another six months and they figured out, they awarded to something and then
+they cancelled it.",,,,,,,,,,,,,,,,,,,
+15,Data Manager,IT Services,Externe Firma,"Finn: So to get first results out of doing stuff like that is like six to 12 months, you would say?
+VS: Yes. ",Quick Wins ,12,,1 Jahr für erste Resultate ,,,,,,,,,,,,,,,
+15,Data Manager,IT Services,Externe Firma,"You can actually do a particular use case or implementation of a particular business
+function in less than six months. You don't have to implement the data model for enterprise,
+the whole enterprise, because that itself is a big, very lengthy exercise that you could
+implement everything. Sometimes you say we do it agile way, like safer job or whatever, it's
+basically we start something slow and scale it over a period of time.",,,,langsam starten und später skalieren ,,,,,,,,,,,,,,,
+15,Data Manager,IT Services,Externe Firma,"I've often seen that you can do the whole thing within six months. The data model, the even
+implementation of tools, everything can be done in six months, but limited use cases, if you're
+doing the enterprise part. That's complex, right?",Volle / Restliche Implementierung ,6,,Alles kann in 6 Monate gemacht werden mit limitierten anzahl Use cases ,,,,,,,,,,,,,,,
+16,Data Lead,Private Equity,Externe Firma,"Yeah, sure, sure. So I think when I arrived, they already had kind of the database or let's
+say an Excel table, I would say, more than a database because they had already the columns
+that they wanted to visualize. They had an idea of what they would put where and kind of a
+vision of what the dashboard will be used for and for who as well and who will use it and
+everything.",,,,"Es wurde schon Vorarbeit geleistet: 
+datenbasis, schon strategie wie sie es 
+visualisieren möchten",,,,,,,,,,,,,,,
+16,Data Lead,Private Equity,Externe Firma,"And so then it took, I would say, a little bit less than three months. So I delivered the full, the
+final, I mean, it's still V1, but it's the final V1 version. It was end of March, I would say, maybe
+first week of April.",Volle / Restliche Implementierung ,3,,"Nach Vorarbeit brauchte es noch etwas weniger als 3 Monate 
+nun wird es jeden Tag gebraucht aber Verbesserungen immer wieder notwenig ",,,,,,,,,,,,,,,
+16,Data Lead,Private Equity,Externe Firma,"And then the rest of the team is quite young, around 30 something on average. And the thing
+is that they completely understand the idea and the necessity of the project as well. And they
+are fully on board about that.",,,,"30 MA, MIT verständnis, sind on board ",,,,,,,,,,,,,,,
+16,Data Lead,Private Equity,Externe Firma,"I think I joined them maybe end of November, yeah, I think so, end of November or something
+like this, and then in less than a month, we had up and running dashboards. So, because they
+already had all the databases in place, and of course we had a lot of struggles with what I told
+you before with this migration stuff and everything, but having an up and running dashboard
+in a month was quite a successful achievement.",,0.5,,"Datenbasen schon bereit - weniger Aufwand - weniger Zeit (< 1 Monat)
+funktioniert auch bei kleinen Unternehmen (hier: 10 MA) ",,,,,,,,,,,,,,,
+4,Senior Partner,Globale Beratungsfirma,Beratung,"Und wo wir eigentlich oft sehen, dass technische Unternehmen so wie Accenture oder IBM
+oder so, die machen es andersrum. Die sagen, pass mal auf, wir müssen jetzt diese 50.000
+Sensoren irgendwie alle in ein riesen Datenmodell integrieren. Das kostet jetzt 30 Millionen
+Dollar, ist in drei Jahren fertig und in drei Jahren erzählen sie auch nochmal zwei Jahre.
+Und dann bist du in fünf Jahren, hast du zwar irgendein Ding gebaut, aber du hast halt die
+alten Daten in einem neuen System und das bringt dir erst mal gar nichts.",,60,,Negativbeispiel mit Aufwand von 5 Jahren,,,,,,,,,,,,,,,
+4,Senior Partner,Globale Beratungsfirma,Beratung,"Du musst deine Use Case zusammen haben und dann musst du mir in sechs Monaten sagen,
+was wir genau jetzt verbessert haben, was der Impact ist. Der Business Unit Head geht dann
+zu IT und AI und so weiter und arbeitet mit denen zusammen.",,,,Beispiel: 6 Monate zeit um Use case zusammen zu haben,,,,,,,,,,,,,,,
+18,Data Lead,Globale Beratungsfirma,Beratung,"Das kann man der IT geben, die installieren das in ein paar Wochen und dann läuft das.",,,,"Aufwand liegt vor allem in der Vorarbeit, nicht bei der technischen Implemetierung ",,,,,,,,,,,,,,,
+19,Data Product Owner,Globale Bank,Externe Firma,"EDC (commercial solution): Would likely require 1.5 to 2 years, depending on the size of the organization, including time for tool selection, customization, metadata onboarding, and change management. We opted for a lightweight, internal solution, which skill took around 6 to 9 months to set up and stabilize.",Volle / Restliche Implementierung ,18,24,"EDC: 1.5-2 Jahre, abhängig von Unternehmensgrösse ",,,,,,,,,,,,,,,
+19,Data Product Owner,Globale Bank,Externe Firma,"EDM: A progressive and ongoing effort. In our experience, the initial framework took about 1 year to develop, but the model continues to evolve with business needs and system changes. Full organizational adoption, including cultural change and integration with governance processes, can take 2–3 years.",Volle / Restliche Implementierung ,12,36,"EDM: 1 Jahr für Entwicklung, 
+volle Adaption: 2-3 Jahre ",,,,,,,,,,,,,,,
+20,CEO,Beratungsfirma,Beratung,"Wir hatten schon Beispiele, wo es innerhalb von ein paar Wochen erste Resultate zeigen
+konnte. Andere, wo es 2, 3, 4 Jahre gedauert hat. Ich denke aber nicht, dass es ein Anfangs-
+oder Endpunkt hat, sondern es ist ein Prozess. Es kann gar nie fertig sein. Du musst immer,
+wenn du ein System am entwickeln bist, nebenzu, deinen Datenkatalog neu definieren.",,,,"Aufwand kann von ein paar Wochen - mehreren Jahren sein, es ist ein unlimitierter Prozess ",,,,,,,,,,,,,,,
+21,Senior Datra Product Manger,Agrarindustrie,Externe Firma,"Also bei Informatika, da hat es bei Databricks, die Integration ist super, das dauert zwei
+Wochen, da kann man sich das anschauen. Die technische Komponente ist nicht das Thema,
+sondern das zu verankern im Management, dass das wichtig ist und dass das gebraucht wird
+und warum und denen zu erklären, warum das wichtig ist. Also das ist die generelle
+Digitaltransformationsproblematik, würde ich sagen.",Volle / Restliche Implementierung ,0.5,,"Implementierung EDC: 2 Wochen 
+technisch weniger lange als Management",,,,,,,,,,,,,,,
+22,Chief Data Officer,Bank,Externe Firma,"The real implementation started in June last year. But as I said before, we had a lot of
+infrastructure problems. So we are actually starting working from six, seven months.",Volle / Restliche Implementierung ,6,,Implementierung Collibra - vor 6/7 Monaten gestartet,,,,,,,,,,,,,,,
+22,Chief Data Officer,Bank,Externe Firma,"We have to finish by the end of this year because we have an internal loading point. But
+probably we will finish in June, July.",Volle / Restliche Implementierung ,12,,Insgesamt ca. 6/7 Monate + 2/3 Monate = zwischen 8-11 Monaten (1 Jahr),,,,,,,,,,,,,,,
+22,Chief Data Officer,Bank,Externe Firma,But after it's ongoing work.,,,,aber 'ongoing',,,,,,,,,,,,,,,
+6,Data Manager,Versicherungsfirma,Externe Firma,"Also ich mache es mal chronologisch ein bisschen einfacher zu antworten. Ich sage mal,
+diese Vorphase, bis wir wussten, dass wir einen Katalog wollen, war bestimmt so ein halbes
+bis ein Jahr ungefähr. Irgendwann dazwischen.",Vorarbeit ,9,,Entscheidung für EDC: 6-12 Monate ,,,,,,,,,,,,,,,
+6,Data Manager,Versicherungsfirma,Externe Firma,"Und dann hatten wir uns überlegt,
+dann sind wir in eine Marktübersicht gegangen, in eine Marktsondierung, haben uns die
+unterschiedlichen Anbieter angeschaut. Das hat auch locker nochmal ein halbes Jahr
+gedauert, wo wir mit den Anbietern einen Einkaufsprozess durchlaufen sind, wo wir die
+Angebote gemacht haben, wo wir uns das angeschaut haben.",Vorarbeit ,6,,Aussortierung Anbieter/Alternative: 6 Monate ,,,,,,,,,,,,,,,
+6,Data Manager,Versicherungsfirma,Externe Firma,"Und dort haben wir dann halt entschieden, einen Proof of Concept zu machen. Diesen Proof
+of Concept, den haben wir dann halt mit Collibra entsprechend gemacht, um halt zu sehen,
+wie ist die Integrationsfähigkeit in unserer Anwendungslandschaft? Also wie gut passt das da
+rein?
+Wie gut kriegen wir es denn integriert? Und dieser POC war dann nochmal zwei Monate lang.
+Im Rahmen des POCs haben wir dann halt schon mal gesehen, okay, eigentlich sieht das ganz
+gut aus.",,,,,,,,,,,,,,,,,,,
+6,Data Manager,Versicherungsfirma,Externe Firma,"Und da alle fanden es cool, alle fanden es super. Also quasi in Anführungsstrichen im POC
+haben wir so einen ersten Beweis eines potenziellen Values gehabt. Und dann haben wir uns
+entschieden, entsprechend Collibra zu kaufen.",Quick Wins ,18,,erster sihtbarer Value nach ca 1.5 Jahren,,,,,,,,,,,,,,,
+6,Data Manager,Versicherungsfirma,Externe Firma,"Wir sind dann, ja, dann hast du tatsächlich die große Frage, schön, du hast jetzt
+irgendeinen Service gekauft, du hast jetzt irgendeine Plattform, eine leere Plattform. Wie
+gehst du jetzt vor, wie machst du das? Da haben wir dann die Entscheidung getroffen, okay,
+wir brauchen jetzt ein Jahr Vorarbeit.",,,,,,,,,,,,,,,,,,,
+6,Data Manager,Versicherungsfirma,Externe Firma,"So, das heißt, wir sind da hingegangen. Also die Plattform war ja sofort online. Also ich meine,
+das ist doch das Service, da machen die klick, klick, klick.
+Und schon läuft das Teil. Wir haben unsere Zugänge, so nach wenigen Sekunden in
+Anführungsstrichen. Und dann wie und womit befüllen wir erstmalig den Katalog, damit
+überhaupt eine Art von Grund existiert, warum irgendjemand da drauf gehen soll.",,,,technische implementierung sehr schnell,,,,,,,,,,,,,,,
+6,Data Manager,Versicherungsfirma,Externe Firma,"So, insofern haben wir das dann halt gemacht. Wir haben dann uns circa ein Jahr Zeit
+genommen, sind ein paar Use Cases durchgegangen, haben die erfolgreich umgesetzt.",Volle / Restliche Implementierung ,12,,1 Jahr um Use cases erfolgreich umzusetzen,,,,,,,,,,,,,,,
+8,Experte,SAP,EDM / EDC Anbieter,"Der Nachteil ist einfach der, dass wir dann über die SAP verteilt einfach ein Zoo an Lösungen
+hatten, weil jeder was anderes dann gekauft hat oder eingesetzt hat. Und man kann ganz
+schlecht Karrierepfade für Leute entwickeln, die in dem Umfeld tätig sind. Meistens fangen
+die dann an und machen es 20 Jahre.",,,,,,,,,,,,,,,,,,,
+8,Experte,SAP,EDM / EDC Anbieter,"Also die Ideen zum
+Data-Product oder Managing Data as a Product, das gibt es jetzt schon viele Jahre und ist seit
+vielen Jahren heißes Thema auf allen Konferenzen. Aber als wir zum Beispiel vor etwas, vor
+eineinhalb Jahren losgelegt haben und gesagt haben, wir wollen Collibra einsetzen, um
+Datenprodukte zu verwalten, da war es so, dass uns Collibra selber gesagt hat, wow, wir
+haben in unserem Katalog selber noch gar keinen Asset-Typ, also dort wird es immer noch
+Asset-Typen klassifiziert für Datenprodukte.",,,,,,,,,,,,,,,,,,,
+5,Data & AI Experte,Beratungsfirma,Beratung,"Wenn sie aber wirklich eine höhere Awareness bekommen, was ihre Daten dann wieder
+für irgendeinen Output generiert, dann ist das Ganze wieder, dann verändert sich da was.
+Aber es ist was, was nicht innerhalb von Wochen geht, es geht über Monate. Und da kann
+auch wieder ein Data Catalog, der zum Beispiel genau diese Datenpfade aufzeigt, sehr
+hilfreich sein.",,,,Data Awareness geht über Monate - wichtig für Ownership - deshalb möchte niemand Verantwortung übernehmen ,,,,,,,,,,,,,,,
+7,Data Architect,Versicherungsfirma,Externe Firma,"Typically between one to two years.
+Both and I'm talking about both being implemented by two different teams.",Volle / Restliche Implementierung ,12,24,EDM & EDC indiviuduell implementiert von 2 versch. Teams - parallel 1-2 Jahre ,,,,,,,,,,,,,,,
+7,Data Architect,Versicherungsfirma,Externe Firma,"So they're both working in parallel and it takes minimum one year I would say and two up to
+two years is what I have seen for the complex organization and the medium and small-scale
+organization which has limited presence in the countries.",Volle / Restliche Implementierung ,24,,Implementierung: 2 Jahre für komplexere Organisationen ,,,,,,,,,,,,,,,
+7,Data Architect,Versicherungsfirma,Externe Firma,"They are pretty straightforward to
+implement but still nevertheless I would say six months at least to fully realize the enterprise
+data model and enterprise data catalog. Okay but one caveat provided that the tools that we
+want to use for implement is already available and fully configured for the use case.",Volle / Restliche Implementierung ,6,,für kleinere Organisationen mind. 6 Monate ,,,,,,,,,,,,,,,
+7,Data Architect,Versicherungsfirma,Externe Firma,"Then I'm just talking about creating the enterprise data models and the data catalog because
+the strategic decision happens before and at multiple levels because it comes with cost part,
+the maintenance part, hosting and all of the topics that are typically addressed by the
+enterprise architect teams and the leadership team. So which generally goes on for six months
+or so because doing the vendor evaluation, the POCs then the procurement negotiations all
+of that take time to onboard our software in the enterprise landscape and once the
+application is available then you start your actual implementation which takes about months.",,,,"WICHTIG!! 
+Vor implementierung: Monate 
+- strategische Entscheidungen auf vielen verschiedenen Ebenen 
+- Kosten, Erhaltung, Datenbewahrung von Leadership-Team der Enterprise- Architect team addressiert 
+- Lieferantenbeurteilung, Beschaffungsverhandlungen 
+- onborading software in Unternehmenslandschaft (technisch) ",,,,,,,,,,,,,,,
+7,Data Architect,Versicherungsfirma,Externe Firma,"So from the business point of view when the discussion is started to create such a enterprise
+data model or the entire data catalog until they really see something on production it is always
+in months and not in days",,,,,,,,,,,,,,,,,,,
+7,Data Architect,Versicherungsfirma,Externe Firma,"We need to start small if
+you start with big bang and there is nothing released to production until everything is
+developed which is typically in months like 12 months or so. ",,,,"EDM/EDC:Quick win immer wieder Mitteilen, nicht am Anfang riesen Werte mitteilen und denn bis fertige Implementierung (nach 12 Monate nochts mehr)",,,,,,,,,,,,,,,
+25,Head of Data DACH,IT Consutling,Beratung,"Vom Safe- oder Agile-Framework her sollte das nicht länger als drei PIs nehmen. PI heißt
+Planung Incrementation. Und ein PI dauert sechs Wochen. Mal drei. Ich würde ungefähr sagen, drei bis sechs Monate. Und wir haben das realisiert weniger als drei Monate.",Quick Wins ,3,6,"Zeit bis low-hanging fruits und quick wins; 3x6 Wochen = 18 Wochen / 4.5 Monate 
+3-6 Monate grob geschätzt",,,,,,,,,,,,,,,
+25,Head of Data DACH,IT Consutling,Beratung,"Aber das geht dann um die Größe des Teams. Ob wir das machen
+oder ob der Kunde will, dass wir das mitmachen.
+Das bringt auch einen Unterschied. Dann solltest du warten, bis der Kunde die Tools irgendwie
+nutzen kann. Dann ist das langsam.
+Aber wenn wir das direkt machen, können wir das ganz schnell realisieren. In einem Monat
+und halb.",Volle / Restliche Implementierung ,2,,"indirekt (Kunde will begleitet werden): länger 
+direkt: 1.5 Monat ",,,,,,,,,,,,,,,
+25,Head of Data DACH,IT Consutling,Beratung,"Das ist auch ein persönlicher Vergleich. Du solltest ein Team haben, das du vertrauen
+könntest. Ich glaube, die davon können.
+Und du solltest die Leute kennen. Wenn du eine Schätzung hast, wie lange das dauern würde,
+dann sollte das geschehen. Wir haben ein Team, das es innerhalb einer Woche gut realisieren
+kann. Das ist auch unser Schwerpunkt.",,,,Vertrauenswürdiges Team haben. Arbeit schneller getan.,,,,,,,,,,,,,,,
+30,Head of Community,IT Services,EDM / EDC Anbieter,"Schwer zu sagen. Es kommt halt darauf an, was du als Implementierung siehst, wann ist
+die Implementierung für die ..., technisch stellst du das Ding innerhalb von einer Woche hin,",Volle / Restliche Implementierung ,0.5,,technisch: 1 Woche ,,,,,,,,,,,,,,,
+30,Head of Community,IT Services,EDM / EDC Anbieter,"Was ich gesehen habe,
+ist eigentlich, dass das mindestens diese, also technische Implementierung ist gar nicht so
+viel, das ist relativ flott gemacht, es geht aber eben Daten dokumentieren, Daten onboarden,
+User onboarden, mindestens ein halbes Jahr, eigentlich eher ein Jahr bis anderthalb.",Volle / Restliche Implementierung ,6,18,"nicht technisch; Daten dokumentieren, onboarden, User onboarden: 6Monate - 1.5 Jahre ",,,,,,,,,,,,,,,
+30,Head of Community,IT Services,EDM / EDC Anbieter,"Naja, die Frage ist da, was du als Quick Win definierst, wenn du nur sagst, wir wollen
+irgendwie 100 User da drin haben, die mindestens einmal wiedergekommen sind, dann
+kannst du das in ein, zwei Monaten darstellen, wenn du genug Daten da hast und die
+Mehrwert sehen.",Quick Wins ,1,2,Quick Win: 1.2 Moante wenn genug Daten - kommt auf Definition Quick Win an ,,,,,,,,,,,,,,,
+30,Head of Community,IT Services,EDM / EDC Anbieter,"Wenn du jetzt aber sagst, ich möchte irgendwie die Daten in Analytics Use
+Cases umgesetzt haben, im Sinne von den ersten, den zweiten, den dritten, dann wirst du
+wahrscheinlich an den Use Cases hängen und die, selbst wenn die irgendwie in Sprints
+vorgehen, werden die ersten Benefits frühestens in drei, vier, fünf Monaten sich auszahlen,
+also knapp ein halbes Jahr.",Quick Wins ,3,5,Quick Win: Daten in Analytics Use Cases umsetzen.. Frühstens in 3-5 Monaten,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
